@@ -7,6 +7,7 @@ We are thankful to the people who are continuously contributing to this note rep
 
 Contributors (in alphabetical order):
 - Giulio Frey
+- Ilaria Imperatrice
 - Luigi Lorenzoni
 - Marcella Lucchini
 - Alessandra Nicolò

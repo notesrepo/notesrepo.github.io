@@ -11,4 +11,5 @@ Contributors (in alphabetical order):
 - Luigi Lorenzoni
 - Marcella Lucchini
 - Alessandra Nicolò
+- Emiliano Zaza
 - Some Anonymous students

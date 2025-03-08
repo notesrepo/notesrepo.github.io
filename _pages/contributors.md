@@ -10,6 +10,7 @@ Contributors (in alphabetical order):
 - Ilaria Imperatrice
 - Luigi Lorenzoni
 - Marcella Lucchini
+- Chiara Mosconi
 - Alessandra Nicolò
 - Emiliano Zaza
 - Some Anonymous students

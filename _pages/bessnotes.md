@@ -15,4 +15,5 @@ permalink: /bessnotes/
 ## Third Year
 <iframe src="https://drive.google.com/embeddedfolderview?id=1u6FHDL2LDx5Ecm3UH10unIbe1ixtBVXI#list" style="width:100%; height:300px; border:0;"></iframe>
 
+<script async data-id="101491282" src="//static.getclicky.com/js"></script>
 

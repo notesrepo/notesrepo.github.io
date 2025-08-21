@@ -14,3 +14,6 @@ Contributors (in alphabetical order):
 - Alessandra Nicolò
 - Emiliano Zaza
 - Some Anonymous students
+
+<script async data-id="101491282" src="//static.getclicky.com/js"></script>
+
